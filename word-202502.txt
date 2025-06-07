@@ -752,6 +752,7 @@
 오사카 tombori 크루즈
 오사카 loft 위치
 오사카 loft
+오사카 jins 안경
 오사카 b737-8
 오사카 Kitchenware Street
 오미 형제사 멘텀
@@ -1301,7 +1302,6 @@
 다이마루백화점 문구
 다이마루 핸즈
 다이닝쿠텐 잇푸도
-닛폰햄 야구 럭키세븐
 니시키시장 UFO
 니시진 하츠키 큐텐 하카타 런치
 니시나카스 라멘
@@ -1426,7 +1426,6 @@
 나고야 오스
 나고야 역 ic카드
 나고야 어린이 manaca 교통카드
-나고야 야구
 나고야 알레지온
 나고야 아소시아 인룸다이닝
 나고야 아소시아 룸서비스
@@ -1589,7 +1588,6 @@
 공항 1층 세븐일레븐 도착 후 쇼핑
 고쿠라 신칸센 영상
 고이소기념미술관 ic
-고시엔 풍선 응원
 고메다커피 오픈런
 고메다커피 앱
 고메다 버스터미널 오픈
@@ -1652,6 +1650,8 @@
 廣東茶居
 屋台屋博多劇場
 大阪王将 那覇メインプレイス店
+大阪府大阪市北区芝田1丁目1-3 阪急三番街
+大阪市北区阪急三番街
 名古屋テレビ塔
 倆仨杯
 九州医療センター
@@ -1685,15 +1685,12 @@ side-f 실물건담
 osaka wonder cruise
 osaka river cruise
 okinawa regency club lounge
-npb 야구장 가는법
 nmb48 코인락커
 nmb48 극장 위치
 nh862 비지니스 기내식
 nh862 비즈니스
 nh862 기내식
 naniwa robata
-meiji jingu 야쿠르트
-meiji jingu 야구장
 manaca 카드
 manaca 나고야
 manaca 교통카드
@@ -1720,8 +1717,6 @@ jr하루카 시간표
 jr하루카 교토 간사이공항
 jr큐슈넷 예약
 jrjp hakata
-jins 안경
-jingu 야구장
 jb16 노선
 iass 라운지
 hl8351 오사카
@@ -1766,7 +1761,6 @@ V-World AREA 크레디 아그리콜 후기
 Topped with Deep-Fried Rice Cake
 THE HOUSE K.Minamoto
 TEPPANYAKI 10 GINZA
-Swallows Crew 2024
 Shijo Aburanokoji
 SIDE F 쇼핑
 Ritsue Mishima
