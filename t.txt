@@ -1994,7 +1994,7 @@ w호텔 오사카 스위트룸 타임랩스
 w 오사카 스위트룸 타임랩스
 v클래스적립
 t갤러리아 오키나와 우버
-t갤러리아
+t갤러리아 오키나와
 threepy 면세
 side-f 실물건담
 sheraton osaka miyako

@@ -223,8 +223,8 @@ zard 흔들리는마음 tv cm
 zard 흔들리는마음 cm
 zard 흔들리는 마음 tv cm
 zard 클라리온 가라오케
+zard 일드 주제가
 zard 일드 tbs
-zard 일드
 zard 이토 아사코 cm
 zard 이토 아사코
 zard 이상의결혼 일드
@@ -236,15 +236,16 @@ zard 오프닝 이상의 결혼
 zard 시부사와역
 zard 시부사와
 zard 사카이 이즈미 나이
+zard 드라마 그대를 만나고 싶어지면
 zard 둘도 없이 소중한 것
 zard 도쿄성지
 zard 도쿄 성지
 zard 다테이시 해변
-zard 그대를 만나고 싶어지면
 zard 가라오케 cm
 zard 가나가와 성지
 zard 揺れる想い 앨범
 zard tv 주제가 일드
+zard tv 그대를 만나고 싶어지면
 zard tv cm
 zard tbs 일드
 zard season 독음
