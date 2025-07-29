@@ -56,6 +56,7 @@
 자드유레루오모이
 자드앨범사진
 자드마케나이데
+자드 티켓 선행 추첨 팬클럽 혜택
 자드 음악 시부사와역 오다큐
 자드 오다큐열차
 자드 여중생
@@ -165,7 +166,9 @@
 소식불통이었지만 잠시동안
 성지 가나가와 zard
 사카이이즈미 유레루오모이
+사카이이즈미 둘도 없이 소중한 것 자드
 사카이 이즈미 Season 가사
+사카이 이즈미 J-POP 밴드 팬클럽 특전
 사랑은 지구를 구한다 마케나이데
 사랑은 지구를 구한다 24시간
 빌보드 요코하마 미나토미라이선 바샤미치역 MM04
@@ -216,8 +219,9 @@
 로비에서 우연히 재회하여 잠시 동안 소식불통이었지만
 레스토랑 돈 야마유리 돼지 스테이크
 레스토랑 돈 zard mind games
+둘도 없이 소중한 것 자드
+둘도 없이 소중한 것 공연
 둘도 없이 소중한 것 zard
-둘도 없이 소중한 것
 돈레스토랑 타테이시
 돈레스토랑 요코스카
 돈레스토랑 다테이시
@@ -368,12 +372,15 @@ ZARD 밴드 멤버 소개
 ZARD 미공개 영상 불만 후기
 ZARD 드링크 쿠폰 사용법
 ZARD 도쿄 로케지
+ZARD 데뷔 35주년 기념 굿즈 소식지
 ZARD 공연장 촬영 금지
 ZARD 공연 입장 방법
 ZARD 공연 메뉴 구성
 ZARD 공연 드링크 메뉴
+ZARD 공식 팬클럽 가입 절차
 ZARD 공식 굿즈 티셔츠
 ZARD 가나가와 로케지
+ZARD WEZARD 35 limitato 회원가입 방법
 ZARD TV CM 포카리스웨트
 ZARD Season 편곡 하야마 타케시
 ZARD Season 쿠리바야시 작곡
@@ -389,6 +396,7 @@ ZARD BGCH-1001 앨범 상세정보
 ZARD 35주년 회원번호 발급
 ZARD 35주년 핀 배지
 ZARD 35주년 라이브 정보
+ZARD 35주년 기념 앨범 발매 팬클럽
 ZARD 35주년 기념 1년 한정 팬클럽
 ZARD 35주년 굿즈 실물 사진
 ZARD 35th limitato 한정
@@ -397,7 +405,10 @@ ZARD 35th limitato
 YOKOHAMA LIVE BILLBOARD
 YOKOHAMA BILLBOARD LIVE 가는방법
 YOKOHAMA BILLBOARD LIVE
+WEZARD 회원증 목걸이 카드 케이스
 WEZARD on BACK LOOK
+WEZARD 35 limitato 회원번호 발급
+WEZARD 35 limitato 1년 한정 팬클럽
 Season 로케지 자드
 Season PV 촬영지 비교
 Oh my love 한정 음료
@@ -405,6 +416,7 @@ Mind Games 자드
 LOOK BACK on WEZARD
 LIVE BILLBOARD YOKOHAMA
 LIMITATO ZARD
+J-POP 아티스트 한정 팬클럽 활동 기간
 Especial moment 공연 후기
 CM송 미츠비시석유
 CM 흔들리는마음 ZARD
