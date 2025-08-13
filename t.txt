@@ -1268,6 +1268,8 @@
 시조오미야역 아라시야마역
 시오라멘교교교
 시오라멘 교교교
+시부야 타워레코드 hmv 비교
+시부야 타워레코드
 시부야 스타벅스 스크램블
 시부야 스타벅스 굿즈
 시부야 스타벅스 교차로
@@ -1279,6 +1281,7 @@
 시부야 무인양품 카페
 시부야 mujicafe
 시부야 muji cafe
+시부야 modi hmv&books
 시부야 MUJI CAFE
 시부야 CAFE&Meal MUJI
 시모키타자와역 오다큐 케이오
@@ -2385,6 +2388,7 @@ t갤러리아 오키나와 우버
 t갤러리아 오키나와
 threepy 면세
 side-f 실물건담
+shibuya hmv 스타벅스
 sheraton osaka miyako
 seria 헬로키티
 seria 멜레민 스펀지
