@@ -37,6 +37,7 @@
 쿠루마타니 케이스케 zard 드럼
 코조노히로미 마케나이데
 코조노 히로미 마케나이데
+코엑스 여름정원 zard
 켄나오코 마케나이데
 켄 나오코 마케나이데
 캐주얼 카운터 시트 후기
@@ -154,6 +155,9 @@
 오다큐 시부사와역 패스
 오다큐 시부사와역 자드 음악
 오다큐 시부사와역
+여름정원 주제가 zard
+여름정원 엔딩테마
+여름정원 zard
 엔딩 이상의결혼
 엔딩 이상의 결혼 tbs
 엔딩 이상의 결혼
@@ -316,8 +320,10 @@ zard 요코스카
 zard 오프닝 이상의 결혼
 zard 시부사와역
 zard 시부사와
+zard 사카이이즈미 여름정원 
 zard 사카이 이즈미 나이
 zard 밴드 멤버 소개
+zard 메가박스
 zard 드라마 그대를 만나고 싶어지면
 zard 도쿄성지
 zard 도쿄 성지
@@ -348,6 +354,7 @@ zard mind games
 zard limitato
 zard forever you 드링크
 zard especial moment 후기
+zard boy 여름정원
 zard Season 앨범
 zard Mind Game 앨범
 zard 35주년 기념
