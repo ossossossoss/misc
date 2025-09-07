@@ -1659,6 +1659,8 @@
 세리아 오리가미
 세리아 스파이패밀리
 세리아 wind breaker
+서우두공항 라운지
+서우두 공항 라운지 락커
 삿포로 맥주 직영 레스토랑
 삼수이포 휴메인 커피
 삼수이포 카페 분위기 추천
@@ -1744,6 +1746,9 @@
 베이징공항 pp라운지
 베이징공항 bgs 라운지
 베이징공항 bgs pp라운지
+베이징 서우두공항 라운지
+베이징 서우두공항 pp라운지
+베이징 서우두공항 pp 라운지
 베이징 서우두 국제공항 pp라운지
 베이징 서우두 pp라운지
 베이징 서우두 pp 라운지
@@ -2751,6 +2756,7 @@
 가부키초 돈키호테 리모와
 가미마에즈 스루가야
 香港蒸籠
+首都机场BGS贵宾休息室
 阿蘇山玄庵
 銀座二丁目
 銀座三丁目 백화점
@@ -2968,6 +2974,7 @@ W Osaka Hotel In-Room Dining
 V-World AREA 크레디 아그리콜 후기
 Topped with Deep
 Tokyo Metropolitan Government Building South Observatory
+Terminal 3E BGS Premier Lounge
 THE HOUSE K.Minamoto
 S지정석 페이페이
 Skyliner & Tokyo Subway Ticket 후기
