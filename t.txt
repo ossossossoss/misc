@@ -1262,6 +1262,9 @@
 오사카 요도바시카메라 캡슐토이
 오사카 요도바시 가챠가챠
 오사카 요도바시 가챠
+오사카 오토그래프 컬렉션
+오사카 오토그래프 웰컴기프트
+오사카 오토그래프
 오사카 여행자 스타벅스커피
 오사카 여행
 오사카 에비스바시 산리오
@@ -1273,8 +1276,10 @@
 오사카 식도원
 오사카 시내 접근성 좋은 호텔
 오사카 스파게티 볼로네제
+오사카 스테이션 호텔 채널
 오사카 스테이션 호텔 오토그래프 컬렉션 객실
 오사카 스테이션 호텔 오토그래프 컬렉션
+오사카 스테이션 호텔 tbs
 오사카 스테이션 호텔
 오사카 스테이션 오토그래프 컬렉션 호텔
 오사카 스미비야키토리 곤베에
@@ -1290,7 +1295,9 @@
 오사카 백화점 고깃집 추천
 오사카 미니바 냉장고
 오사카 메리어트 호텔
+오사카 메리어트 스테이션
 오사카 메리어트 계열 호텔
+오사카 메리어트
 오사카 리버크루즈 원더크루즈
 오사카 리버크루즈
 오사카 로프트 난바파크스
@@ -2908,6 +2915,7 @@ seria 멜레민 스펀지
 raisin sfilatino 빵
 osaka wonder cruise
 osaka river cruise
+osaka marriott station
 osaka marriott hotel
 osaka kansai airport lawson
 okinawa regency club lounge
@@ -3054,6 +3062,7 @@ SYOKUDOEN 焼肉小鉢会席 평일 한정
 SIDE F 쇼핑
 Ritsue Mishima
 Q-FRONT 빌딩 2층 스타벅스
+Osaka Station Marriott
 Nurukawa Onsen ぬるかわ温泉 당일 입욕
 Namba Parks 식당가
 MyCity 루미네 에스트 추억여행
