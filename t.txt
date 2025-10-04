@@ -638,7 +638,10 @@
 키테 신신라면
 키타카 교통카드
 키타카 kitaca
+키타나카 스타벅스점
 키타나카 스타벅스
+키타나카 브릭&화이트
+키타나카 브릭 화이트
 키지마 고급 도시락 가와사키역
 키와미야 함바그 혼밥
 키노쿠니야 후쿠오카
@@ -1119,6 +1122,7 @@
 요코하마시청 스타벅스
 요코하마 햄버거 맛집 추천
 요코하마 키타나카 스타벅스
+요코하마 키타나카 브릭 화이트
 요코하마 스타벅스
 요코스카 해변 노래
 요코스카 해변 ZARD 로케지
@@ -1845,6 +1849,11 @@
 바오바오 리얼리티랩
 바오바오 게스트카드
 바오바오
+바샤미치역 키타나카
+바샤미치역 스타벅스
+바샤미치 키타나카 스타벅스
+바샤미치 키타나카
+바샤미치 스타벅스
 미트오일 퐁듀 요리
 미타역타마치역환승
 미츠코시 백화점 장어덮밥
@@ -3077,6 +3086,8 @@ Tokyo Metropolitan Government Building South Observatory
 Terminal 3E BGS Premier Lounge
 THE HOUSE K.Minamoto
 S지정석 페이페이
+Starbucks Coffee - Kitanaka Brick & White
+Starbucks Coffee Kitanaka Brick & White
 Skyliner & Tokyo Subway Ticket 후기
 Skyliner & Teito Taxi 패키지 안내
 Skyliner & Subway 72시간권 후기
