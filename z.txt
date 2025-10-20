@@ -484,6 +484,7 @@
 zard 흔들리는마음 tv cm
 zard 흔들리는마음 cm
 zard 흔들리는 마음 tv cm
+zard 하카타역
 zard 하야마 성지
 zard 하야마 로케
 zard 폴로 셔츠 런던 티셔츠
@@ -493,6 +494,7 @@ zard 클라리온 가라오케
 zard 일드 tbs
 zard 이토 아사코 cm
 zard 이토 아사코
+zard 이케부쿠로
 zard 이상의결혼 일드
 zard 유레루오모이 앨범
 zard 유레루오모이 cm
@@ -500,6 +502,7 @@ zard 유레루오모이
 zard 유레루 오모이 음료
 zard 요코스카
 zard 오프닝 이상의 결혼
+zard 아키하바라
 zard 시부사와역
 zard 시부사와
 zard 사카이이즈미 여름정원 
@@ -597,6 +600,8 @@ billboard live yokohama zard
 being 35주년 자드
 [BOOK & PHOTO BOOK] Release News ZARD
 Zard 타테이시 공원 맛집
+Zard 재발매판CD 정보 뮤직비디오
+Zard 뮤직비디오
 Zard 메가박스 A관
 Zard season
 Zard Limitato 35th
@@ -665,11 +670,13 @@ ZARD 공연 관람후기 블로그 분위기 비하인드 입장방법
 ZARD 공식팬클럽 가입 limitato 회원 혜택정보 회비
 ZARD 공식 팬클럽 가입 절차
 ZARD 공식 굿즈 티셔츠
+ZARD 가사해석 번역
 ZARD 가나가와 성지 로케지 요코스카 해변노래
 ZARD 가나가와 로케지
 ZARD mind games 레스토랑돈 로케지 싱글 가사해석
 ZARD mind games 돈레스토랑 요코스카 가나가와 가사
 ZARD mind games 가사해석 번역 돈레스토랑 요코스카
+ZARD mind games 가사해석 번역
 ZARD limitato 회원가입 소식지 35th 굿즈
 ZARD limitato 35th 회원증 목걸이 1년 한정
 ZARD limitato 35th 회원가입방법 소식지 한정혜택
@@ -691,6 +698,7 @@ ZARD Season 메이지신궁 배경 편곡 하야마타케시
 ZARD Season 로케지
 ZARD Season 독음정리 가사번역 해석 재발매판
 ZARD Season 독음 가사번역해석 재발매판CD 정보 뮤직비디오
+ZARD Season 독음 가사번역해석 
 ZARD Season 가사 번역 및 해석
 ZARD Season 가사 독음 정리
 ZARD Season PV 움짤 위치 로케장소 배경
