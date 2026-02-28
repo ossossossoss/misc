@@ -38,7 +38,6 @@
 케야키자카 일루미네이션
 차가운 오뎅 일본 안주
 조방 마고시 쿄헤이
-일본항공 sky suite iii
 일본 하츠네미쿠 후쿠부쿠로
 인천공항 마티나 골드 라운지 메뉴
 인천공항 마티나 골드 라운지
@@ -324,6 +323,10 @@ JCB 라라포트 후쿠오카
 JCB 라라포트
 JCB 다이버시티
 JCB 다이바시티
+JAL 일본항공 sky suite iii
+JAL 비즈니스석 sky suite iii
+JAL 비즈니스석 sky suite
+JAL sky suite iii
 HKG 국제공항 도착층 
 ANA 김포 하네다 비즈니스
 ANA 김포 하네다 60열
