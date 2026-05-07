@@ -1,4 +1,3 @@
-2026년 탁상 캘린더
 2026년 탁상
 2025년 ZARD 어쿠스틱 라이브
 2025년 ZARD 어쿠스틱
@@ -61,7 +60,6 @@
 팬클럽 WEZARD
 티켓 로치케 로손
 탁상 캘린더 도착
-탁상 캘린더
 타테이시공원 일몰 돈레스토랑 야마유리 돼지스테이크 맛집
 타테이시공원 맛집 즈시역 돈레스토랑 스테이크
 타테이시 해변 zard 일몰 공원맛집 요코스카 돈레스토랑
@@ -85,7 +83,6 @@
 콘서트 forever
 코이온나노유우츠 세번째 트랙
 코엑스 여름정원 zard
-캘린더 도착
 캐주얼 카운터 시트 후기
 캐주얼 카운터 시트 zard
 츠타야 서점 35주년
@@ -446,7 +443,6 @@
 굿즈 2026년
 국민응원곡 지지말아요
 국민응원곡 지지 말아요
-공연 forever moment
 공연 forever
 공식 팬클럽 자드
 공식 굿즈 2026년
@@ -477,7 +473,6 @@ zard 유레루오모이
 zard 유레루 오모이 음료
 zard 요코스카
 zard 오프닝 이상의 결혼
-zard 앨범
 zard 아키하바라
 zard 시부야 타워레코드
 zard 시부사와역
@@ -607,7 +602,6 @@ ZARD 어쿠스틱 라이브 요코하마
 ZARD 어쿠스틱 라이브 Especial moment 선상라이브
 ZARD 어쿠스틱 라이브 Especial moment
 ZARD 어쿠스틱 라이브
-ZARD 앨범 탐방
 ZARD 앨범
 ZARD 사카이 이즈미 타테이시 영상
 ZARD 뮤징 아마존 타워레코드 특전
@@ -648,6 +642,7 @@ ZARD mind games 돈레스토랑 요코스카 가나가와 가사
 ZARD mind games 가사해석 번역
 ZARD limitato 회원가입 소식지 35th 굿즈
 ZARD limitato 35th 회원가입방법 소식지 한정혜택
+ZARD WEZARD 35TH
 ZARD WEZARD 35 limitato 회원가입 방법
 ZARD TV 주제가 일드 그녀가싫어하는그녀 이상의결혼 드라마
 ZARD TV CM 포카리스웨트
@@ -666,9 +661,16 @@ ZARD Season 독음 가사번역해석
 ZARD Season 가사 독음 정리
 ZARD Season PV 배경 로케 장소
 ZARD Season PV 가사
+ZARD PREMIUM DISC COLLECTION
+ZARD PREMIUM DISC
 ZARD MIND GAMES 요코스카 성지
 ZARD MIND GAMES 싱글 로케지
 ZARD LIMITATO
+ZARD DISC COLLECTION 23호
+ZARD DISC COLLECTION
+ZARD COLLECTION 23호 소개
+ZARD COLLECTION 23호
+ZARD CM송 미츠비시석유
 ZARD Boy 영화 여름정원 주제가
 ZARD Best Request 한정반 개봉
 ZARD Best Request 통상반 한정반 차이
@@ -723,7 +725,6 @@ WEZARD35 limitato 한정 팬클럽
 WEZARD35 limitato 자드 한정 팬클럽
 WEZARD 회원증 목걸이 카드 케이스
 WEZARD 라이브 선행 응모 방법
-WEZARD on BACK LOOK
 WEZARD 35주년 목걸이 굿즈
 WEZARD 35 라이브 선행
 WEZARD 35 limitato 회원증
@@ -733,8 +734,6 @@ WEZARD 35 limitato 1년 한정 팬클럽
 WEZARD 35 limitatio
 Today is another day 야와라
 SARD UNDERGROUND 니시오기쿠보
-PREMIUM DISC COLLECTION
-PREMIUM DISC
 Musing Zard
 Mind Games 자드
 MONOCHROME COLORS 리뷰
@@ -743,11 +742,6 @@ LOOK BACK on WEZARD
 LIMITATO ZARD
 Especial moment 공연
 Especial moment
-DISC COLLECTION 23호
-DISC COLLECTION
-COLLECTION 23호 소개
-COLLECTION 23호
-CM송 미츠비시석유
 Billboard Live YOKOHAMA 요코하마시청 근처
 BILLBOARD LIVE YOKOHAMA
 BGCH-1001
