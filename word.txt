@@ -4439,7 +4439,6 @@ ANA 김포 하네다 비즈니스
 ANA 김포 하네다 60열
 ANA 김네다 비즈니스
 2026년 연간
-2026년 굿즈 리뷰
 2026 LG 홈경기 시즌권
 2025케베시 야구N진심
 2025년 엘지트윈스 개막전 염경엽 감독
@@ -4506,7 +4505,6 @@ ANA 김네다 비즈니스
 67번 김영우 158km
 67번 김영우 156km
 17번 박해민 수비 위치
-8강 진출 도쿄돔
 3루 내야A 주니치 드래곤즈
 2차전 PO 2022년
 1차전 2022년 PO
@@ -4780,7 +4778,6 @@ ANA 김네다 비즈니스
 이민호 부상 복귀 등판
 윤석민 2008 다승왕 2011 최다승
 윤상균 개명
-유니폼 문보경 마킹
 월간호크스 정기구독 할인가격
 원민주 한준수
 우익수 손아섭 좌익수 김문호
@@ -5256,7 +5253,6 @@ lg 이우찬규
 lg 연간회원 마킹
 lg 시즌권 후기
 lg 시즌권 20265
-lg 시즌권 2026
 lg 시즌권
 lg 블루석 시즌권
 lg twins 시즌권
@@ -5356,7 +5352,6 @@ LG 트윈스 헬로키티 폰케이스
 LG 트윈스 페타지니 조인성 홈런
 LG 트윈스 통합우승 행사 티켓
 LG 트윈스 콜라보 아이폰 케이스
-LG 트윈스 콜라보
 LG 트윈스 치어리더 신서윤 키
 LG 트윈스 최하윤 치어리더
 LG 트윈스 이형종 2볼넷 1안타
@@ -5367,7 +5362,6 @@ LG 트윈스 오지환 유니폼 굿즈 골든패키지
 LG 트윈스 시즌권 후기
 LG 트윈스 시즌권 카드 굿즈
 LG 트윈스 시즌권 좌석 종류
-LG 트윈스 시즌권 구매 일정
 LG 트윈스 삼성 경기 2017년
 LG 트윈스 빰빠라밤 이주헌 진심의 응원가
 LG 트윈스 lockerdium 유니폼 마킹
@@ -5410,7 +5404,6 @@ EKINISHI SHOPPING CENTER AVENUE 약자
 D23 매시 캡 사이즈
 C조 8강 진출
 CREW 2025년 굿즈
-2026년 탁상
 2025년 ZARD 어쿠스틱 라이브
 2025년 ZARD 어쿠스틱
 2025년 ZARD 라이브
@@ -5485,13 +5478,11 @@ CREW 2025년 굿즈
 타워레코드 시부야점 ZARD
 타워레코드 시부야 ZARD 탐방
 타워레코드 매장 ZARD
-타워레코드 매장
 타워레코드 bounce 자드
 타워레코드 Zard
 타워레코드 ZARD 앨범 탐방
 쿠리바야시 세이이치로 리메이크
 콘서트 forever moment
-콘서트 forever
 코이온나노유우츠 세번째 트랙
 코엑스 여름정원 zard
 캐주얼 카운터 시트 후기
@@ -5644,7 +5635,6 @@ CREW 2025년 굿즈
 오사카 자드 goodbye my loneliness
 오사카 우에혼마치 잔카라
 오사카 노래방 JOYSOUND 기계
-오사카 공연 forever
 오사카 가라오케 zard good bye my loneliness
 오다큐선 자드
 오다큐 시부사와역 패스
@@ -5687,7 +5677,6 @@ CREW 2025년 굿즈
 시부야 타워레코드 ZARD CD
 시부야 타워레코드 ZARD
 시부야 타워레코드 Bounce
-시부야 타워레코드
 시부야 타워 레코드 ZARD
 시부야 ZARD
 시부사와역 흔들리는마음
@@ -5719,7 +5708,6 @@ CREW 2025년 굿즈
 시로카네다이 biotop ogetti 버스정류장 쌀집 뮤비
 시라토리 레이코입니다 정보
 성지 가나가와 zard
-서점 35주년 기념
 사카이이즈미 유레루오모이
 사카이이즈미 여름정원
 사카이 이즈미 팬투표 결과
@@ -5771,7 +5759,6 @@ CREW 2025년 굿즈
 메이지 신궁 외원 은행나무 가로수길
 메이지 신궁 외원 쉐이크쉑 매장
 머나먼 별을 세면서
-매장 ZARD 앨범
 매장 ZARD
 맛집 다테이시 요코스카
 마케나이데 시부사와역
@@ -5842,12 +5829,10 @@ CREW 2025년 굿즈
 기념 콘서트 forever
 기념 사진집 MONOCHROME
 기념 사진집
-기념 라이브 What
 기념 ZARD 다이칸야마
 그대와의 Distance 후기
 그대를 만나고 싶어지면 tbs
 굿즈 선행판매 현장
-굿즈 2026년 탁상
 굿즈 2026년
 국민응원곡 지지말아요
 국민응원곡 지지 말아요
@@ -5861,7 +5846,6 @@ CREW 2025년 굿즈
 가나가와 la maree 자드
 가나가와 la maree zard
 青山一丁目역 ZARD PV
-zardo
 zard 헤이세이
 zard 하야마 성지
 zard 하야마 로케
@@ -5940,9 +5924,7 @@ tbs 그대를 만나고 싶어지면
 season zard
 season Zard
 musing zard
-moment 티켓 로치케
 moment 굿즈 선행판매
-moment 공연 후기
 mind games 자드
 mind games 돈 레스토랑
 mind games 가사해석 노래 돈레스토랑 가나가와
@@ -5951,7 +5933,6 @@ mind games 가사
 mind games zard
 memory forever moment
 limitato zard
-limitatio 2025년 10월
 limitatio 2025년
 la maree 하야마
 la maree 사랑이 보이지 않아
@@ -6024,7 +6005,6 @@ ZARD 데뷔 35주년 기념굿즈 앨범발매 팬클럽정보
 ZARD 데뷔 35주년 기념 굿즈 소식지
 ZARD 다이칸야마 갤러리 전시
 ZARD 다이칸야마 갤러리
-ZARD 다이칸야마
 ZARD 굿즈 2026 캘린더 리뷰
 ZARD 공연장 oh my love 음료 forever you 드링크
 ZARD 공연 포토존액자 입장방법 드링크쿠폰 한정음료
@@ -6068,9 +6048,7 @@ ZARD MIND GAMES 요코스카 성지
 ZARD MIND GAMES 싱글 로케지
 ZARD LIMITATO
 ZARD DISC COLLECTION 23호
-ZARD DISC COLLECTION
 ZARD COLLECTION 23호 소개
-ZARD COLLECTION 23호
 ZARD CM송 미츠비시석유
 ZARD Boy 영화 여름정원 주제가
 ZARD Best Request 한정반 개봉
@@ -6138,7 +6116,6 @@ SARD UNDERGROUND 니시오기쿠보
 Musing Zard
 Mind Games 자드
 MONOCHROME COLORS 리뷰
-MONOCHROME COLORS
 LOOK BACK on WEZARD
 LIMITATO ZARD
 Especial moment 공연
