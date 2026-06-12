@@ -39,7 +39,6 @@
 해변 노래 요코스카
 학교가 위험해 IN MY ARMS TONIGHT
 하카타역 북오프 자드 앨범
-하카타역 북오프 ZARD Good-bye My Loneliness
 하카타역 북오프 ZARD Golden Best
 하카타역 BOOKOFF ZARD 진열 신품
 하카타 북오프 ZARD 앨범 탐방
@@ -336,7 +335,6 @@
 사카이 이즈미 자필 문구 회보지
 사카이 이즈미 오사카 35주년 공연
 사카이 이즈미 영상 화면
-사카이 이즈미 모노크롬 흑백 사진집
 사카이 이즈미 글로리어스 마인드 화보
 사카이 이즈미 la maree
 사카이 이즈미 ZARD 캘린더 2026
@@ -462,7 +460,6 @@
 다이칸야마 츠타야 서점 ZARD
 다이칸야마 츠타야 ZARD 아날로그반 선행
 다이칸야마 츠타야 ZARD 갤러리
-다이칸야마 츠타야
 다이칸야마 자드 갤러리
 다이칸야마 갤러리
 다이칸야마 ZARD 전시 츠타야
@@ -470,7 +467,6 @@
 나카노시마 페스티벌홀 ZARD 사카이 이즈미
 나카노시마 페스티벌홀 ZARD 라이브
 나카노시마 페스티벌홀 ZARD 굿즈 판매
-나카노시마 페스티벌홀 ZARD 굿즈
 기타리스트 大賀好修
 기념 사진집
 기념 ZARD 다이칸야마
@@ -478,7 +474,6 @@
 그대와의 Distance 후기
 그대를 만나고 싶어지면 tbs
 굿즈 선행판매 현장
-굿즈 2026년
 국민응원곡 지지말아요
 국민응원곡 지지 말아요
 공식 팬클럽 자드
@@ -581,9 +576,7 @@ forever moment
 cm 유레루오모이 zard
 bounce 표지 ZARD 사카이 이즈미
 bounce ZARD 데뷔 35주년
-bounce 494호 ZARD 表紙
 bounce 494호 ZARD 35주년 표지 기사
-bounce 494호 2025년 1월 25일 ZARD
 billboard live yokohama zard
 beautiful memory forever
 Zard 타테이시 공원 맛집
@@ -702,14 +695,11 @@ ZARD 가나가와 하야마 LA MARÉE 레스토랑
 ZARD 가나가와 성지 로케지 요코스카 해변노래
 ZARD 가나가와 로케지
 ZARD 永遠のスタンダード Vol.23
-ZARD 止まっていた時計が今動き出した 앨범
 ZARD 時間の翼 시간의 날개 아키하바라 북오프
 ZARD 時間の翼 북오프 550엔 코너
 ZARD 揺れる想い 북오프 중고 앨범
 ZARD 愛が見えない 로케지 하야마 LA MARÉE
-ZARD 愛が見えない PV 촬영지 라마레
 ZARD 夏の庭 주제곡
-ZARD 代官山 Gallery 다이칸야마
 ZARD プレミアム ディスク・コレクション 매거진
 ZARD プレミアム ディスク・コレクション 2025
 ZARD グロリアス マインド 유작 싱글
@@ -725,7 +715,6 @@ ZARD forever moment 파카 티셔츠 굿즈
 ZARD forever moment 티켓 예약 매수
 ZARD forever moment 티켓 로손 발권
 ZARD forever moment 티켓 1만엔 로손 미니스톱
-ZARD forever moment 주석부 지정석 티켓
 ZARD forever moment 우선예약 추첨 방법
 ZARD forever moment 오사카 도쿄 티켓 로손
 ZARD forever moment 오사카 공연 리뷰
@@ -736,8 +725,6 @@ ZARD forever moment 굿즈 선행판매
 ZARD bounce 표지 데뷔 35주년
 ZARD bounce 타워레코드 月刊音楽情報誌
 ZARD bounce 시부야 타워레코드 기사
-ZARD What a beautiful moment Tour 굿즈
-ZARD What a beautiful moment DVD 북오프
 ZARD What a beautiful memory 티켓 로치케
 ZARD What a beautiful memory 오사카 페스티벌홀 후기
 ZARD What a beautiful memory 도쿄 국제포럼홀A
@@ -766,7 +753,6 @@ ZARD PREMIUM DISC COLLECTION 창간호 499엔
 ZARD PREMIUM DISC COLLECTION 전용 수납박스
 ZARD PREMIUM DISC COLLECTION 수납박스 책꽂이
 ZARD PREMIUM DISC COLLECTION 글로리어스 마인드
-ZARD PREMIUM DISC COLLECTION Blu-spec CD2
 ZARD PREMIUM DISC COLLECTION 23호
 ZARD PREMIUM DISC COLLECTION 2025년 12월 31일
 ZARD PREMIUM DISC COLLECTION 1호 창간호 499엔
@@ -779,7 +765,6 @@ ZARD MIND GAMES 요코스카 성지
 ZARD MIND GAMES 싱글 로케지
 ZARD Le Portfolio 사진집 LA MARÉE
 ZARD LIMITATO
-ZARD HOLD ME OH MY LOVE 북오프
 ZARD HOLD ME 1992 揺れる想い 1993 OH MY LOVE
 ZARD Golden Best 2021 재발매 북오프
 ZARD Golden Best 2006 재발매 2021 하카타
@@ -796,9 +781,7 @@ ZARD Especial moment 첫 유관객 어쿠스틱 라이브
 ZARD Especial moment 롯폰기 빌보드 도쿄
 ZARD Especial moment 도쿄 공연 후기
 ZARD Especial moment BL 버거 칵테일
-ZARD Don't you see 드래곤볼 주제가
 ZARD CM송 미츠비시석유
-ZARD CD&DVD COLLECTION 아셰트 67권
 ZARD Brezza di mare dedicated to IZUMI SAKAI
 ZARD Boy 영화 여름정원 주제가
 ZARD Best Request 한정반 아크릴 포토블록
@@ -933,8 +916,6 @@ ZARD 35th Anniversary 수록곡
 ZARD 35th ANNIVERSARY OFFICIAL FAN CLUB 회보지
 ZARD 2월 35주년 기념 라이브
 ZARD 2026년 캘린더 후기
-ZARD 2026년 2월 6일 오사카 공연
-ZARD 2026년 2월 10일 도쿄 공연 티켓
 ZARD 2026 탁상 캘린더 표지 디자인
 ZARD 2026 탁상 캘린더 musing 주문
 ZARD 2026 캘린더 표지 디자인
@@ -942,7 +923,6 @@ ZARD 2026 캘린더 뮤징 주문
 ZARD 2026 데스크탑 캘린더 후기
 ZARD 2022 캘린더 LA MARÉE 레스토랑
 ZARD 15주년 베스트 앨범 하카타
-ZARD 15번째 싱글 愛が見えない 시브리즈
 YOKOHAMA BILLBOARD LIVE 가는방법
 What a beautiful moment Tour 오리지널 굿즈
 WEZARD35 limitato 한정 팬클럽
@@ -967,7 +947,6 @@ WEZARD 35 limitato 로그인 회원 응모
 WEZARD 35 limitato 2026 캘린더 안내
 WEZARD 35 limitato 1년 한정 팬클럽
 WEZARD 35 ZARD 35th ANNIVERSARY FAN CLUB
-Tower Records Shibuya ZARD 앨범
 Today is another day 야와라
 SARD UNDERGROUND 시디 타워레코드
 SARD UNDERGROUND 니시오기쿠보
@@ -982,7 +961,6 @@ LA MARÉE DE CHAYA ZARD 사카이 이즈미 로케
 Golden Best 35th Anniversary Vinyl Edition
 Especial moment 공연
 Especial moment
-DAIKANYAMA T-SITE ZARD 35주년 페어
 Billboard Live YOKOHAMA 요코하마시청 근처
 BOOKOFF 하카타 ZARD 앨범 탐방
 BOOKOFF 이케부쿠로 선샤인60도리 ZARD
