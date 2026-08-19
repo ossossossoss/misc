@@ -11,6 +11,8 @@ singapore
 shinjuku
 shibuya
 shanghai
+seoul
+sapporo
 sanrio
 sanfrancisco
 sakae
@@ -36,6 +38,8 @@ hakata
 ginza
 fukuoka
 familymart
+daiso
 beijing
 bali
+asahikawa
 akihabara
