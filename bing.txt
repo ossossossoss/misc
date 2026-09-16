@@ -1,7 +1,13 @@
 후쿠오카여행
+호텔
+한큐
+하네다
+이세탄
 오사카여행
 삿포로여행
+맛집
 도쿄여행
+나리타
 나고야여행
 교토여행
 umeda
@@ -38,8 +44,11 @@ jrkyushu
 japan
 jakarta
 isetan
+hotel
 hongkong
 harajuku
+hankyu
+haneda
 hakata
 ginza
 fukuoka
