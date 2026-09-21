@@ -19,6 +19,7 @@ takashimaya
 taiwan
 taipei
 starbucks
+softbank
 singapore
 shinjuku
 shibuya
@@ -28,6 +29,8 @@ sapporo
 sanrio
 sanfrancisco
 sakae
+roppingi
+remm
 osaka
 okinawa
 newjersey
@@ -35,11 +38,13 @@ namba
 naha
 nagoya
 meguro
+marriott
 macau
 macao
 lawson
 kyoto
 koreanair
+kix
 jrkyushu
 japan
 jakarta
@@ -53,8 +58,10 @@ hakata
 ginza
 fukuoka
 familymart
+dormyinn
 daiso
 beijing
+baseball
 bali
 asahikawa
 akihabara
